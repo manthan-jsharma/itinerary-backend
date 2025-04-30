@@ -16,6 +16,7 @@
 ```shellscript
 alembic upgrade head
 ````
+3. Configure both the MCP Server and main app Server, look at the code in run.py file
 
 4. Start the application:
 
